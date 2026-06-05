@@ -55,9 +55,15 @@
 
 ---
 
-## 📊 GitHub Activity
+## 📊 What I Work With
 
-[![Pardis's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=pardisHpa&theme=github-compact&hide_border=true)](https://github.com/pardisHpa)
+| Area | Tools |
+|---|---|
+| **Languages** | Python, SQL |
+| **Libraries** | pandas, numpy, scikit-learn, matplotlib, seaborn |
+| **Methods** | EDA, RFM Analysis, K-Means Clustering, ML Classification |
+| **Environment** | Jupyter Notebook, GitHub |
+| **Domains** | Telecom, Retail, Customer Analytics |
 ---
 
 ## 🤝 Let's Connect
