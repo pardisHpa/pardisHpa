@@ -55,13 +55,9 @@
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Activity
 
-## 📊 GitHub Stats
-
-![Pardis's GitHub Stats](https://github-readme-stats.vercel.app/api?username=pardisHpa&show_icons=true&theme=github_dark&hide_border=true&count_private=true&cache_seconds=86400)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pardisHpa&layout=compact&hide_border=true&theme=github_dark&cache_seconds=86400)
+[![Pardis's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=pardisHpa&theme=github-compact&hide_border=true)](https://github.com/pardisHpa)
 ---
 
 ## 🤝 Let's Connect
