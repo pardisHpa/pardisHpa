@@ -57,9 +57,11 @@
 
 ## 📊 GitHub Stats
 
-```markdown
-   📊 **My GitHub Metrics:**  
-   ![](https://metrics.lecoq.io/pardisHpa?template=classic&base=header%2C%20activity%2C%20community%2C%20repositories-metadata&config.timezone=Europe%2FBerlin)
+## 📊 GitHub Stats
+
+![Pardis's GitHub Stats](https://github-readme-stats.vercel.app/api?username=pardisHpa&show_icons=true&theme=github_dark&hide_border=true&count_private=true&cache_seconds=86400)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pardisHpa&layout=compact&hide_border=true&theme=github_dark&cache_seconds=86400)
 ---
 
 ## 🤝 Let's Connect
