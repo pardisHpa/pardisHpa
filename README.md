@@ -55,6 +55,13 @@
 - Found Home Office as highest avg order value segment despite being the smallest group
 - `Python` `pandas` `matplotlib` `seaborn` `EDA` `Business Insights`
 
+### 🗄️ [Superstore Sales — SQL Analysis](https://github.com/pardisHpa/Superstore-SQL-Analysis)
+> 10 business SQL queries on 9,800 retail transactions using SQLite
+
+- Analyzed regional sales, product performance, customer segments and seasonality
+- Identified **50% revenue growth** from 2015 to 2018
+- Found **November and December** drive peak sales — classic holiday demand pattern
+- `SQL` `SQLite` `Business Analysis` `EDA`
 ---
 
 ## 📊 What I Work With
